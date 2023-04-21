@@ -1,9 +1,9 @@
 const sequelize = require('./../database/sequelize.js');
 const Sequelize = require('sequelize');
 
-module.exports = sequelize.define('playlist', {
+module.exports = sequelize.define('track', {
     id: {
-        field: 'PlaylistId',
+        field: 'TrackId',
         type: Sequelize.INTEGER,
         primaryKey: true
     },
