@@ -1,1 +1,1 @@
-# building_api_node_js_training
+I follow the tutorial from : https://blog.logrocket.com/crud-rest-api-node-js-express-postgresql/
